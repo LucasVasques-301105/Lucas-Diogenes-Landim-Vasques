@@ -88,7 +88,6 @@ Me chamo Lucas Diógenes Landim Vasques, tenho 19 anos e sou natural do Piauí. 
 | 🗂️ **Repositório original** | Repositório base do projeto | [https://github.com/LukeDev36/Dra-Lidiane-b2.0.git](https://github.com/LukeDev36/Dra-Lidiane-b2.0.git) |
 | 💾 **Commit representativo** | Commit principal de entrega / versão estável | [https://github.com/LukeDev36/Dra-Lidiane-b2.0/commit/`<SHA>`](https://github.com/LukeDev36/Dra-Lidiane-b2.0/commit/`<SHA>`) |
 | 🧩 **Pull Request no portfólio** | PR que integrou o projeto no repositório do desafio | [https://github.com/LucasVasques-301105/Lucas-Diogenes-Landim-Vasques
-/pull/`<NUM>`](https://github.com/SEU_USUARIO/SEU_REPO/pull/`<NUM>`) |
 | 🚀 **Deploy / Demo Online** | Link público do site ou aplicação | https://lidianegastropediatra.com.br/ |
 | 🖼️ **Screenshots / Capturas** | Evidência visual do projeto em execução | [`docs/dra-lidiane-screenshot.png`](../docs/dra-lidiane-screenshot.png) |
 | 📅 **Data de conclusão** | Data em que o projeto foi finalizado ou publicado | `25/04/2025` |
