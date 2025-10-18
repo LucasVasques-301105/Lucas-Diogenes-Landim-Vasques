@@ -144,4 +144,12 @@ Escolha qual desses quer que eu gere em seguida e eu crio o conteúdo pronto par
 
 ---
 
+## 📋 Evidências de Entrega
+
+| 01 | Dra. Lidiane Landim (Site estático) | [https://github.com/LukeDev36/Dra-Lidiane-b2.0.git](https://github.com/LukeDev36/Dra-Lidiane-b2.0.git)  
+| [Commit](https://github.com/LukeDev36/Dra-Lidiane-b2.0/commit/`<SHA>`) 
+| [Demo](https://lidianegastropediatra.com.br/)  
+|✅ Concluído |
+
+
 *Fim do PLANEJAMENTO.*
