@@ -97,8 +97,13 @@ Me chamo Lucas Diógenes Landim Vasques, tenho 19 anos e sou natural do Piauí. 
 
 **`Recomendações e Testemunhos`**
 
-**`Linkedin`** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas-Vasques-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-vasques-16436338b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn - Lucas Vasques](https://img.shields.io/badge/LinkedIn-Lucas%20Vasques-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vasques-16436338b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+
+📢 Confira a publicação sobre este portfólio no meu perfil:  
+[Post no LinkedIn — Desafio Intermediário](https://www.linkedin.com/posts/lucas-vasques-16436338b_desafio-intermedi%C3%A1rio-portf%C3%B3lio-de-projetos-activity-7385765702164566016-u0rs?utm_medium=ios_app&rcm=ACoAAF_7jxwBymPgWEQ4Ry-OqpaZyX318qbzysU&utm_source=social_share_send&utm_campaign=copy_link)
+
+
 
 
 
