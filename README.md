@@ -105,7 +105,7 @@ Me chamo Lucas Diógenes Landim Vasques, tenho 19 anos e sou natural do Piauí. 
 
 ## 📺 Apresentação em Vídeo
 
-▶️ [Assista à apresentação no YouTube](https://youtu.be/XXXXXXXXXXX)
+▶️ [Assista à apresentação no YouTube](https://youtu.be/EekeATT1Oos)
 
 
 
