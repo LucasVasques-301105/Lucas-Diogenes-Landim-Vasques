@@ -98,7 +98,7 @@ Me chamo Lucas Diógenes Landim Vasques, tenho 19 anos e sou natural do Piauí. 
 **`Recomendações e Testemunhos`**
 
 **`Linkedin`** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LukeDev36-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lukedev36)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas-Vasques-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-vasques-16436338b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 
