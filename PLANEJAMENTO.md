@@ -153,6 +153,9 @@ Escolha qual desses quer que eu gere em seguida e eu crio o conteúdo pronto par
 
 | 🔗 Post no LinkedIn | [Ver publicação](https://www.linkedin.com/posts/lukedev36_desafio-intermediario-portfolio-projetos-123456789/) |
 
+| 🎥 Vídeo de Apresentação | [Assista no YouTube](https://youtu.be/EekeATT1Oos) |
+
+
 
 
 *Fim do PLANEJAMENTO.*
