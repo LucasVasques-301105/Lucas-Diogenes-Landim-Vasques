@@ -109,6 +109,19 @@ Me chamo Lucas Diógenes Landim Vasques, tenho 19 anos e sou natural do Piauí. 
 
 ## Teste de colaboração
 Essa mudança será revisada via Pull Request.
+# PortfolioHUB – Entrega Final
+Projeto final do desafio de implantação no GitHub.
+
+## Funcionalidades
+- Integração com GitHub Actions (CI/CD)
+- Simulação de IA (Gemini)
+- Políticas de segurança e versionamento
+- CODEOWNERS e Branch protection
+- Demonstração em vídeo
+
+## Links
+- [Repositório público](https://github.com/LucasVasques-301105/Lucas-Diogenes-Landim-Vasques)
+- [Vídeo no YouTube](COLE O LINK)
 
 
 
