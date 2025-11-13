@@ -1,0 +1,23 @@
+name: PortfolioHUB CI/CD
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Simular integração com IA
+        run: |
+          echo "Chamando IA Gemini..."
+          echo "Usando chave: ${{ secrets.GEMINI_API_KEY }}"
+          echo "Descrição gerada: 'Seu portfólio foi atualizado com sucesso!'"
+
+      - name: Finalizar pipeline
+        run: echo "Deploy concluído com sucesso 🚀"
