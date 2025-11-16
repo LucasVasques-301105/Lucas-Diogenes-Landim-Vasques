@@ -121,7 +121,7 @@ Projeto final do desafio de implantação no GitHub.
 
 ## Links
 - [Repositório público](https://github.com/LucasVasques-301105/Lucas-Diogenes-Landim-Vasques)
-- [Vídeo no YouTube](COLE O LINK)
+- [Vídeo no YouTube](https://youtu.be/8anqnGyifBs)
 
 
 
